@@ -4,7 +4,7 @@ Formulário simples para rastrear pedidos transportados pela Magalog (Magazine L
 
 ## Como usar
 
-1. Acesse: [https://seu-usuario.github.io/rastreio_magalu](https://seu-usuario.github.io/rastreio_magalu)
+1. Acesse: [https://ribamarsaraiva.github.io/rastreiomagalu](https://ribamarsaraiva.github.io/rastreiomagalu)
 2. Digite o código de rastreamento fornecido no momento da compra
 3. Clique em "Rastrear Pedido"
 
